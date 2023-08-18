@@ -1,4 +1,4 @@
-create table test_python_sql
+create table if not exists test_python_sql
 (
 username varchar(20),
 passwd varchar(20)
